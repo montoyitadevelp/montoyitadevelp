@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montoyitadevelp&label=Profile%20views&color=0e75b6&style=flat" alt="montoyitadevelp" /> </p>
 
-- 🏫 I’m currently learning **Tailwind CSS**
+- 🏫 I’m currently learning **NextJS**
 
 - 📽 All of my projects are available at https://github.com/montoyitadevelp?tab=repositories
 
