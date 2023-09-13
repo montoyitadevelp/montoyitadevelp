@@ -103,7 +103,7 @@
 </p>
 
   ### 📊 Github Stats 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=montoyitadevelp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=montoyitadevelp)](https://github.com/ryo-ma/github-profile-trophy)
   <br/>
   <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
