@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=montoyitadevelp&abbreviated=true)
 [![GitHub gsaini](https://img.shields.io/github/followers/montoyitadevelp?label=follow&style=social)](https://github.com/montoyitadevelp)
 
-Welcome to my GitHub profile! Passionate about scalable architecture and intelligent systems. Specializing in building AI-driven solutions and modern engineering workflows. Proven track record in integrating GenAI, optimizing RAG systems, and fine-tuning models to create seamless user experiences.
+Welcome to my GitHub profile! Passionate about scalable architecture and intelligent systems. Specializing in building AI-driven solutions and modern engineering workflows. Proven track record in integrating GenAI, optimizing RAG systems, and fine-tuning models for specific business rule for every company.
 
 ## 🌟 About Me
 - 🔭 I’m currently working on **building intelligent agents and AI-integrated web platforms using LLMs and cloud-native architectures**
