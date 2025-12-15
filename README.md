@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Passionate about scalable architecture and intelli
 - **Cloud & DevOps:** AWS (Certified Solutions Architect, ML & DevOps), Google Cloud Platform, GitHub Actions, Docker, Kubernetes, GitLab CI
 
 ## 📈 GitHub Stats
-![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=montoyitadevelp&show_icons=true&theme=default)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=montoyitadevelp&theme=dark)
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=montoyitadevelp&repo=multi-vector-image-retrieval)](https://github.com/montoyitadevelp/multi-vector-image-retrieval)
